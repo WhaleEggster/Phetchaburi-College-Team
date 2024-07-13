@@ -1,0 +1,17 @@
+.navbar{
+    background-color: aqua;
+}
+.content {
+    background-color: aquamarine;
+    justify-content; center:
+}
+
+.ul-nav {
+ display: flex;
+justify-content: center;
+}
+
+.li-nav {
+    margin: 10px;
+    list-style-type: none;
+}
